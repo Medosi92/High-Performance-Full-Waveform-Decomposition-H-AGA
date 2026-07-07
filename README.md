@@ -78,7 +78,7 @@ The LMFitter performs the final optimization. The LM algorithm is a "local" opti
 ### **Running the Analysis**
 
 1. Make sure your haga conda environment is active.  
-2. From the root directory (HAGA-2-Claud/), run the main script:  
+2. From the root directory (HAGA-2/), run the main script:  
    python main.py
 
 The script will automatically find and process all .csv files in the Dataset/ folder and save the output plots as .png files in the output/ directory.
@@ -87,7 +87,7 @@ The script will automatically find and process all .csv files in the Dataset/ fo
 
 The project is built using an Object-Oriented design to ensure the code is modular, maintainable, and scientifically sound.
 
-HAGA-2-Claud/  
+HAGA-2/  
 │  
 ├── Core/  
 │   ├── decomposer.py       \# Main orchestrator class  
