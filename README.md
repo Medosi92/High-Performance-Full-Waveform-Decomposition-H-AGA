@@ -56,8 +56,8 @@ The LMFitter performs the final optimization. The LM algorithm is a "local" opti
 ### **Environment Setup**
 
 1. **Clone the repository**:  
-   git clone \<repository-url\>  
-   cd HAGA-2-Claud
+   git clone https://github.com/Medosi92/High-Performance-Full-Waveform-Decomposition-H-AGA.git 
+   cd High-Performance-Full-Waveform-Decomposition-H-AGA
 
 2. **Create and activate the Conda environment**:  
    conda create \--name haga python=3.10  
